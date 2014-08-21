@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  mount Blorgh::Engine, at: "/blog"
+  mount Blorgh::Engine, at: "/blorgh"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
