@@ -1,5 +1,5 @@
 PATH
-  remote: /Users/juan.ortiz/Desktop/rails_guides_engine
+  remote: /Users/juan.ortiz/Desktop/rails-engines-plugins/rails_guides_engine
   specs:
     blorgh (0.0.1)
       rails (~> 4.1.5)

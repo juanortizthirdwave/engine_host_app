@@ -38,5 +38,5 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'blorgh', path: "/Users/juan.ortiz/Desktop/rails_guides_engine"
+gem 'blorgh', path: "/Users/juan.ortiz/Desktop/rails-engines-plugins/rails_guides_engine"
 
